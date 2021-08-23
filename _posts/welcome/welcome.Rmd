@@ -1,13 +1,12 @@
 ---
-title: "Welcome to My Blog"
+title: "Welcome to Shureen's Blog"
 description: |
-  Welcome to our new blog, My Blog. We hope you enjoy 
-  reading what we have to say!
+ This is my IS415 blog!
 author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
+  - name: Shureen Teh 
+    url: https://www.linkedin.com/in/shureen-teh
+    affiliation: School of Computing and Information systems
+    affiliation_url: https://www.smu.edu.sg 
 date: 08-19-2021
 output:
   distill::distill_article:

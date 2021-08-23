@@ -1,19 +1,19 @@
 [
   {
     "path": "posts/welcome/",
-    "title": "Welcome to My Blog",
-    "description": "Welcome to our new blog, My Blog. We hope you enjoy \nreading what we have to say!",
+    "title": "Welcome to Shureen's Blog",
+    "description": "This is my IS415 blog!",
     "author": [
       {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "name": "Shureen Teh",
+        "url": "https://www.linkedin.com/in/shureen-teh"
       }
     ],
     "date": "2021-08-19",
     "categories": [],
     "contents": "\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-08-19T14:11:00+08:00",
-    "input_file": {}
+    "last_modified": "2021-08-23T10:43:20+08:00",
+    "input_file": "welcome.knit.md"
   }
 ]
